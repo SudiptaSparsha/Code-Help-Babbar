@@ -10,10 +10,4 @@
 
 6. Sort 0 1 2 : https://www.naukri.com/code360/problems/sort-0-1-2_631055?source=youtube&campaign=LoveBabbar_Codestudiovideo1&utm_source=youtube&utm_medium=affiliate&utm_campaign=LoveBabbar_Codestudiovideo1&leftPanelTabValue=PROBLEM
 
-7. First and Last Position of an Element In Sorted Array : https://www.naukri.com/code360/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTabValue=PROBLEM 
-
-
-git push https://SudiptaSparsha@github.com/SudiptaSparsha/Code-Help-Babbar.git
-git push https://SudiptaSparsha@github.com/SudiptaSparsha/Code-Help-Babbar.git
-git push https://SudiptaSparsha@github.com/SudiptaSparsha/Code-Help-Babbar.git
-git push https://SudiptaSparsha@github.com/SudiptaSparsha/Code-Help-Babbar.git
+7. First and Last Position of an Element In Sorted Array : https://www.naukri.com/code360/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTabValue=PROBLEM
