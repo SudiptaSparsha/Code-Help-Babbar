@@ -15,3 +15,5 @@
 8. Search In Rotated Sorted Array : https://www.naukri.com/code360/problems/search-in-rotated-sorted-array_1082554?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTabValue=PROBLEM
 
 9.  Square Root of a number : https://www.naukri.com/code360/problems/square-root_893351?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTabValue=PROBLEM
+
+10. Allocate Books : https://www.naukri.com/code360/problems/allocate-books_1090540?leftPanelTabValue=PROBLEM
